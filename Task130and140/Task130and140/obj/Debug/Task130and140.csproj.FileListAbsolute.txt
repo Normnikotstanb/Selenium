@@ -4,9 +4,6 @@ D:\Selenium training\Final\Final\Task130and140\Task130and140\bin\Debug\nunit.fra
 D:\Selenium training\Final\Final\Task130and140\Task130and140\bin\Debug\WebDriver.dll
 D:\Selenium training\Final\Final\Task130and140\Task130and140\bin\Debug\nunit.framework.xml
 D:\Selenium training\Final\Final\Task130and140\Task130and140\bin\Debug\WebDriver.xml
-D:\Selenium training\Final\Final\Task130and140\Task130and140\obj\Debug\Task130and140.csprojAssemblyReference.cache
-D:\Selenium training\Final\Final\Task130and140\Task130and140\obj\Debug\Task130and140.csproj.CoreCompileInputs.cache
-D:\Selenium training\Final\Final\Task130and140\Task130and140\obj\Debug\Task130and140.csproj.CopyComplete
 D:\Selenium training\Final\Final\Task130and140\Task130and140\obj\Debug\Task130and140.dll
 D:\Selenium training\Final\Final\Task130and140\Task130and140\obj\Debug\Task130and140.pdb
 D:\Selenium training\Final\Final\Task130and140\Task130and140\bin\Debug\NUnit3.TestAdapter.dll
@@ -21,3 +18,4 @@ D:\Selenium training\Final\Final\Task130and140\Task130and140\bin\Debug\System.Va
 D:\Selenium training\Final\Final\Task130and140\Task130and140\bin\Debug\Newtonsoft.Json.xml
 D:\Selenium training\Final\Final\Task130and140\Task130and140\bin\Debug\nunit.framework.pdb
 D:\Selenium training\Final\Final\Task130and140\Task130and140\bin\Debug\System.ValueTuple.xml
+D:\Selenium training\Final\Final\Task130and140\Task130and140\obj\Debug\Task130and140.csprojResolveAssemblyReference.cache
