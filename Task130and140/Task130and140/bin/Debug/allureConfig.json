@@ -1,6 +1,6 @@
 ﻿{
   "allure": {
-    "directory": "D:\\Results\\",
+    "directory": "C:\\Program Files (x86)\\Jenkins\\workspace\\Nesimple Tests\\allure-report",
     "allowEmptySuites": true,
     "enableParameters": true,
     "allowLocalHistoryTrend": false
